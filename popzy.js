@@ -1,4 +1,3 @@
-
 Popzy.elements = [];
 
 function Popzy(options = {}) {
@@ -199,4 +198,3 @@ Popzy.prototype._getScrollbarWidth = function () {
 
     return this._scrollbarWidth;
 };
-
